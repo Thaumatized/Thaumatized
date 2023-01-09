@@ -1,4 +1,4 @@
-`Class Thaumatized : Human
+Class Thaumatized : Human
 {
   ShortAlias = "Thauma";
   Websites = new string[]
@@ -27,4 +27,4 @@
     new NamedWeight("Social life", 0.2f),
     new NamedWeight("Music", float.MinValue),
   }
-}`
+}
