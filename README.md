@@ -16,8 +16,8 @@ Class Thaumatized : Human
     new ProgrammingSkill("Python", 0.5f),  
     new ProgrammingSkill("Javascript", 0.4f),   
     new ProgrammingSkill("PHP", 0.7f),  
-    new ProgrammingSkill("C++", 0.1f),  
-    new ProgrammingSkill("C", 0.05f),  
+    new ProgrammingSkill("C++", 0.05f),  
+    new ProgrammingSkill("C", 0.06f),  
   };  
   
   //No way these are accurate!  
