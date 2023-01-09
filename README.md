@@ -9,7 +9,7 @@ Class Thaumatized : Human
   };  
   Occupation = Conscript;  
   
-  //Values may not be accurate
+  //Values may not be accurate  
   ProgrammingSkills = new ProgrammingSkill[]  
   {  
     new ProgrammingSkill("C#", 0.8f),  
