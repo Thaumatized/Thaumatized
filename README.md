@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Thaumatized
 - 👀 I’m interested in most things concerning tech and developement
-- 🌱 I’m currently serving in the finnish militiary
+- 🌱 I’m currently serving in the finnish militiary, which limits my free time greatly.
