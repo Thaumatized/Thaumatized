@@ -7,7 +7,7 @@ Class Thaumatized : Human
     "https://pussyhub.fi",  
     "https://ankkapeli.fi",  
   };  
-  Occupation = Conscript;  //Please change this
+  Occupation = Conscript;  //Please change this by hiring me
   
   //Values may not be accurate  
   ProgrammingSkills = new ProgrammingSkill[]  
