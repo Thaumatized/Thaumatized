@@ -1,20 +1,20 @@
-Heyo!
+Heyo!  
 
-Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently.
+Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently.  
 
-Anyways, here's the basics of me;
+Anyways, here's the basics of me;  
 
-I am currently in serving in the finnish army, as a programmer/sysadmin and teamleader of the "Virtual Learning Enviorement".
+I am currently in serving in the finnish army, as a programmer/sysadmin and teamleader of the "Virtual Learning Enviorement".  
 
-I have three websites, one of which is actually in a usable state and the two others just waiting for me to have more time in my hands.
-"https://thaumatek.fi"
-"https://pussyhub.fi"
-"https://ankkapeli.fi"
+I have three websites, one of which is actually in a usable state and the two others just waiting for me to have more time in my hands.  
+"https://thaumatek.fi"  
+"https://pussyhub.fi"  
+"https://ankkapeli.fi"  
 
-As for programming, my experience goes as follows:
-C#: Lots of experience. Babys first language, used for games and bots and some miscellanious programs.
-Python: A whole lot of experience. Go to messing around language. My relationship with python is definitely a love-hate one.
-PHP: A lot of experience. Backends are way more suitable for me, this goes for PHP too.
-JavaScript: Quite a bit of experience. JavaScript only has a sinlge purpose.
+As for programming, my experience goes as follows:  
+C#: Lots of experience. Babys first language, used for games and bots and some miscellanious programs.  
+Python: A whole lot of experience. Go to messing around language. My relationship with python is definitely a love-hate one.  
+PHP: A lot of experience. Backends are way more suitable for me, this goes for PHP too.  
+JavaScript: Quite a bit of experience. JavaScript only has a sinlge purpose.  
 
-C/C++: Tried, going to use more.
+C/C++: Tried, going to use more.  
