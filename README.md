@@ -1,34 +1,20 @@
-Class Thaumatized : Human  
-{  
-  ShortAlias = "Thauma";  
-  Websites = new string[]  
-  {  
-    "https://thaumatek.fi",  
-    "https://pussyhub.fi",  
-    "https://ankkapeli.fi",  
-  };  
-  Occupation = Conscript;  //Please change this by hiring me
-  
-  //Values may not be accurate  
-  ProgrammingSkills = new ProgrammingSkill[]  
-  {  
-    new ProgrammingSkill("C#", 0.8f),  
-    new ProgrammingSkill("Python", 0.5f),  
-    new ProgrammingSkill("Javascript", 0.4f),   
-    new ProgrammingSkill("PHP", 0.7f),  
-    new ProgrammingSkill("C++", 0.05f),  
-    new ProgrammingSkill("C", 0.06f),  
-  };  
-  
-  //No way these are accurate!  
-  IntrestWeights = new NamedWeight[]  
-  {  
-    new NamedWeight("Software developement", 0.9f),  
-    new NamedWeight("3D printing", 0.8f),  
-    new NamedWeight("3D modeling", 0.75f),  
-    new NamedWeight("Computer hardware", 0.7f),  
-    new NamedWeight("Hosting", 0.6f),  
-    new NamedWeight("Social life", 0.2f),  
-    new NamedWeight("Music", float.MinValue),  
-  };  
-}  
+Heyo!
+
+Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently.
+
+Anyways, here's the basics of me;
+
+I am currently in serving in the finnish army, as a programmer/sysadmin and teamleader of the "Virtual Learning Enviorement".
+
+I have three websites, one of which is actually in a usable state and the two others just waiting for me to have more time in my hands.
+"https://thaumatek.fi"
+"https://pussyhub.fi"
+"https://ankkapeli.fi"
+
+As for programming, my experience goes as follows:
+C#: Lots of experience. Babys first language, used for games and bots and some miscellanious programs.
+Python: A whole lot of experience. Go to messing around language. My relationship with python is definitely a love-hate one.
+PHP: A lot of experience. Backends are way more suitable for me, this goes for PHP too.
+JavaScript: Quite a bit of experience. JavaScript only has a sinlge purpose.
+
+C/C++: Tried, going to use more.
