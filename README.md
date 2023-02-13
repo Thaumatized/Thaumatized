@@ -15,6 +15,6 @@ As for programming, my experience goes as follows:
 C#: Lots of experience. Babys first language, used for games and bots and some miscellanious programs.  
 Python: A whole lot of experience. Go to messing around language. My relationship with python is definitely a love-hate one.  
 PHP: A lot of experience. Backends are way more suitable for me, this goes for PHP too.  
-JavaScript: Quite a bit of experience. JavaScript only has a sinlge purpose.  
+JavaScript: Quite a bit of experience. JavaScript only has a sinlge purpose, so take a guess what I have done with it.  
 
 C/C++: Tried, going to use more.  
