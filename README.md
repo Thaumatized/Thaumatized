@@ -1,6 +1,6 @@
 Heyo!  
 
-Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently.  
+Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently. In reality I have programmed something atleas everyweek, usually daily ever since I started back in 2018. This comes with the exception of being a recruit in the finnish defence forces.  
 
 Anyways, here's the basics of me;  
 
