@@ -4,7 +4,7 @@ Please keep in mind that my github doesn't give a full picture of my programming
 
 Anyways, here's the basics of me;  
 
-I am currently in serving in the finnish army, as a programmer/sysadmin and teamleader of the "Virtual Learning Enviorement".  
+I am currently in serving in the finnish army, as a programmer/sysadmin and teamleader of the "Virtual Learning Enviorement" of Säkylä.  
 
 I have three websites, one of which is actually in a usable state and the two others just waiting for me to have more time in my hands.  
 "https://thaumatek.fi"  
