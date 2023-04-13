@@ -1,6 +1,6 @@
 Heyo!  
 
-Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently. In reality I have programmed something atleast everyweek, usually daily ever since I started back in 2018. This comes with the notable exception of being a recruit in the finnish defence forces.  
+Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently. In reality I have programmed something atleast everyweek, usually daily ever since I started back in 2018. This comes with the notable exception of being a recruit in the finnish defence forces. If there are no visible contributions for a week it either means that there are commits waiting for a merge or that I have been working on something which wont become a public git repository ever.
 
 Anyways, here's the basics of me;  
 
@@ -10,6 +10,8 @@ I have three websites, one of which is actually in a usable state and the two ot
 "https://thaumatek.fi"  
 "https://pussyhub.fi"  
 "https://ankkapeli.fi"  
+
+I have also made "https://avaratmi.fi"
 
 As for programming, my experience goes as follows:  
 C#: Lots of experience. Babys first language, used for games and bots and some miscellanious programs.  
