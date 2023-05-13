@@ -4,7 +4,7 @@ Please keep in mind that my github doesn't give a full picture of my programming
 
 Anyways, here's the basics of me;  
 
-I am working in IT for Sporttikone.  
+I am working in as a junior software engineer for SADE Innovations.  
 
 I have three websites, one of which is actually in a usable state and the two others just waiting for me to have more time in my hands.  
 "https://thaumatek.fi"  
