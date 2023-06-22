@@ -18,7 +18,7 @@ I have also made "https://avaratmi.fi"
 As for programming, my experience goes as follows:  
 C#: Lots of experience. Babys first language, used for games and bots and some miscellanious programs.  
 Python: A whole lot of experience. Go to messing around language. My relationship with python is definitely a love-hate one.  
-PHP: A lot of experience. Backends are way more suitable for me, this goes for PHP too.  
+PHP: A lot of experience. Backends tend to be more suitable for me, this goes for PHP too.  
 SQL: An obvious companiion for PHP.  
 JavaScript: Quite a bit of experience. Besides boring front end scripting I have also made a few games with it.  
 
