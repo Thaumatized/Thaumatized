@@ -19,8 +19,8 @@ As for programming, my experience goes as follows:
 C#: Lots of experience. Babys first language, used for games and bots and some miscellanious programs.  
 Python: A whole lot of experience. Go to messing around language. My relationship with python is definitely a love-hate one.  
 PHP: A lot of experience. Backends are way more suitable for me, this goes for PHP too.  
-SQL: Used enough to get along with and aware of common security holes.  
+SQL: An obvious companiion for PHP.  
 JavaScript: Quite a bit of experience. Besides boring front end scripting I have also made a few games with it.  
 
 C: New to, but currently working on a project with it. 
-TypeScript: New to, but I am getting paid.
+TypeScript: New to, but I am getting paid to use it
