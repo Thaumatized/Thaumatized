@@ -22,5 +22,5 @@ PHP: A lot of experience. Backends tend to be more suitable for me, this goes fo
 SQL: An obvious companiion for PHP.  
 JavaScript: Quite a bit of experience. Besides boring front end scripting I have also made a few games with it.  
 
-C: New to, but currently working on a project with it. 
+C: New to, but currently working on a project with it.  
 TypeScript: New to, but I am getting paid to use it
