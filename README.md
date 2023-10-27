@@ -23,5 +23,5 @@ SQL: An obvious companion for PHP.
 JavaScript: Quite a bit of experience. Besides boring front end scripting I have also made a few games with it.  
 
 C: Relatively new to, but currently the most common language for new personal projects.  
-TypeScript: I am getting paid to use it.
+TypeScript: I am getting paid to use it.  
 Java: Had to use a bit for work and used for a bit for fun. It is just worse C#.
