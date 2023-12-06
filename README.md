@@ -8,7 +8,7 @@ Anyways, here's the basics of me;
 
 I am working in as a junior software engineer for SADE Innovations.  
 
-I have three websites, one of which is actually in a usable state and the two others just waiting for me to have more time in my hands. They have been like this for years.
+I have three websites, one of which is actually in a usable state and the two others just waiting for me to have more time in my hands. They have been like this for years.  
 "https://thaumatek.fi"  
 "https://pussyhub.fi"  
 "https://ankkapeli.fi"
