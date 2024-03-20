@@ -1,6 +1,6 @@
 Heyo!  
 
-Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently. In reality I have programmed something atleast everyweek, usually daily ever since I started back in 2018. This comes with the notable exception of being a recruit in the finnish defence forces.  
+Please keep in mind that my github doesn't give a full picture of my programming history, as I have been programming for years but only started using git recently. In reality I have programmed something atleast everyweek, usually daily ever since I started back in 2018. This comes with the notable exception of being a recruit in the Finnish Defence Forces.  
 
 I want note also that Githubs contribution history isn't a valid way of testing that claim. Honestly it is a really bad measure of ones productivity anyways. If there are no visible contributions for a week it either means that there are commits waiting for a merge or that what ever I did that day got squashed into a repository and thus is counted as contribution for a later week or that I have been working on something which wont show up on github contribution history at all, be that by not being on a vcs at all or by being on another vcs platform...
 
