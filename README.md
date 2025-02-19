@@ -6,7 +6,7 @@ I want note also that Githubs contribution history isn't a valid way of testing 
 
 Anyways, here's the basics of me;  
 
-I am working in as a junior software engineer for SADE Innovations.  
+I am working in as a software engineer for SADE Innovations.  
 
 Check out my personal website, which I host my self!
 [thaumatized.com](https://thaumatized.com)
